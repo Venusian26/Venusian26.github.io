@@ -27,9 +27,22 @@ En dónde "000" se refiere a que no se concede ningun permiso para el usuario ac
 Lo primero que haremos es abrir una terminal (control+alt+t) y localizar la carpeta, directorio o archivo que deseamos proteger.  
 Una vez que hemos encontrado el directorio, carpeta o archivo que deseamos proteger escribiremos en la terminal lo siguiente:
 ```
-$chmod 000 [carpeta/directorio/archivo]
+chmod 000 [carpeta/directorio/archivo]
 
 ```
-Este comando lo que hará es limitar el acceso a solo nuestro usuario root, dónde solo el root podrá realizar operaciones con el recurso. En cambio si es un usuario normal sin permisos de root, y esté desea ver el recurso, se le niegara el acceso.
+Este comando lo que hará es limitar el acceso solo a nuestro usuario root, dónde solo el root podrá realizar operaciones con el recurso. En cambio si es un usuario normal sin permisos de root, y esté desea ver el recurso, se le niegara el acceso.
 
+### ¿Como reestablecezco los permisos?
+
+Bueno para hacer esto basta con abrir de nuevo una terminal (control+alt+t) y localizar la carpeta a regresar los permisos, para esto simplemente escribimos el siguiente comando:
+
+```
+chmod 777 [carpeta/directorio/archivo]
+```
+y vuála tu carpeta estará desprotegida nuevamente ;).
+
+#### Nota
+
+Este método no es una protección difinitiva para tus archivos, pero si que te puede servir para intrusos inexperimentados.
+Saludos!!!.
 
