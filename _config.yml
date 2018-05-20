@@ -6,7 +6,7 @@
 name:  Juan Figueroa
 
 # Short bio or description (displayed in the header)
-description: Blog de un desarrollador,fan de la seguridad informatica, autodidacta y de libre pensar.
+description: Blog de un desarrollador, fan de la seguridad informatica, autodidacta y de libre pensar.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/32909063?s=460&v=4
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://github.com/Venusian26
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
