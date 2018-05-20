@@ -10,7 +10,8 @@ Si eres de los que suele compartir su pc, con algún familiar o cualquier otra p
 ## Vamos a ello!
 
 En linux , los permisos a recursos tales como "carpetas/archivos/directorios" se pueden manejar de distintas formas, y una de ellas es el sistema numerico octal.
-ve aqui una imagen.
+
+Vé aqui una imagen.
 
 ![Permisos Linux]({{ site.baseurl }}/images/permisos_Linux.png)
 
@@ -18,7 +19,7 @@ Como vemos en la imagen cada uno de estos permisos, corresponden a un numero en 
 
 El rwx vemos que pertenece al numero 7,lo que significa que si tenemos "777" estamos haciendo referencia a los permisos de lectura, escritura y ejecución. 
 
-Lo mismo aplicá para los demás permisos, en esta ocasión los permisos que nos interesan son los de "rwx" y "- - -" osea "777" y "000" en sistema octal.
+Lo mismo aplicá para los demás permisos, en esta ocasión los permisos que nos interesan son los de "rwx" y "- - -" siendo  "777" y "000" en sistema octal.
 
 En dónde "000" se refiere a que no se concede ningun permiso para el usuario actual.
 
