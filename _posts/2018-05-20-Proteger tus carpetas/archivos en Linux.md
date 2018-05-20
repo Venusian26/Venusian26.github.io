@@ -32,7 +32,7 @@ chmod 000 [carpeta/directorio/archivo]
 ```
 Este comando lo que hará es limitar el acceso solo a nuestro usuario root, dónde solo el root podrá realizar operaciones con el recurso. En cambio si es un usuario normal sin permisos de root, y esté desea ver el recurso, se le niegara el acceso.
 
-### ¿Como reestablecezco los permisos?
+### ¿Como restablecer los permisos?
 
 Bueno para hacer esto basta con abrir de nuevo una terminal (control+alt+t) y localizar la carpeta a regresar los permisos, para esto simplemente escribimos el siguiente comando:
 
