@@ -14,5 +14,8 @@ ve aqui una imagen.
 
 ![Permisos Linux]({{ site.baseurl }}/images/permisos_Linux.png)
 
-Además de los ya conocidos read, write y execute. Para poder proteger una carpeta
+Como vemos en la imagen cada uno de estos permisos, corresponden a un numero en el sistema numérico octal.
+El rwx vemos que pertenece al numero 7,lo que signfica que si tenemos "777" estamos haciendo referencia a los permisos de lectura, escritura y ejecución. 
+
+Lo mismo aplicá para los demás permisos, en esta ocasión los permisos que nos interesan son los de "rwx" y "---" osea "777" y "000" en sistema octal. Dónde "000" se refiere a que no se concede ningun permiso para el usuario actual.
 
