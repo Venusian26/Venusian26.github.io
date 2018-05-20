@@ -4,8 +4,5 @@ title: Bienvenido a mi blog!
 ---
 
 Aquí encontraras algunos tutoriales, trucos , articulos y demas acerca de la tecnologia informatica.
-Te invito a seguirme en mis redes sociales, que podrás encontrar en la sección mas abajo de mi blog.
+Te invito a seguirme en mis redes sociales, encontraras un link en la parte inferior de mi blog.
 
-[_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
