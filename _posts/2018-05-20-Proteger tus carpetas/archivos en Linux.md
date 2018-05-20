@@ -15,7 +15,7 @@ Vé aqui una imagen.
 
 ![Permisos Linux]({{ site.baseurl }}/images/permisos_Linux.png)
 
-Como vemos en la imagen cada uno de estos permisos, corresponden a un numero en el sistema numérico octal.
+Como vemos en la imagen cada uno de estos permisos, corresponden a un número en el sistema numérico octal.
 
 El rwx vemos que pertenece al numero 7,lo que significa que si tenemos "777" estamos haciendo referencia a los permisos de lectura, escritura y ejecución. 
 
