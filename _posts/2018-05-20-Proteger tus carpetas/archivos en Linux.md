@@ -24,7 +24,7 @@ Lo mismo aplicá para los demás permisos, en esta ocasión los permisos que nos
 En dónde "000" se refiere a que no se concede ningun permiso para el usuario actual.
 
 ## Sin intrusos o mirones
-Lo primero que haremos es abrir una terminal (control+alt+t) y localizar la carpeta, directorio o archivo que deseamos proteger.  
+Lo primero que haremos es abrir una terminal siendo en algunos casos con el atajo del teclado (control+alt+t) y localizar la carpeta, directorio o archivo que deseamos proteger.  
 Una vez que hemos encontrado el directorio, carpeta o archivo que deseamos proteger escribiremos en la terminal lo siguiente:
 ```
 chmod 000 [carpeta/directorio/archivo]
@@ -34,7 +34,7 @@ Este comando lo que hará es limitar el acceso solo a nuestro usuario root, dón
 
 ### ¿Como restablecer los permisos?
 
-Bueno para hacer esto basta con abrir de nuevo una terminal (control+alt+t) y localizar la carpeta a regresar los permisos, para esto simplemente escribimos el siguiente comando:
+Bueno para hacer esto basta con abrir de nuevo una terminal, siendo en algunos casos con el atajo del teclado (control+alt+t) y localizar la carpeta a regresar los permisos, para esto simplemente escribimos el siguiente comando:
 
 ```
 chmod 777 [carpeta/directorio/archivo]
