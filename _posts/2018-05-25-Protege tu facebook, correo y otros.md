@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Tus cuentas/redes sociales fuera de cualquier intruso.
+title: Protege tu facebook, correo y otros.
+category: Seguridad social.
 ---
 ## Introducción
 
