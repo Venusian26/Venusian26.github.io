@@ -4,4 +4,4 @@ title: proyectos
 permalink: /proyectos/
 ---
 
-### Aun no disponible :D
+### Vacio por el momento :).
