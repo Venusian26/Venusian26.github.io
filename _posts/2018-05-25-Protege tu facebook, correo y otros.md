@@ -18,7 +18,6 @@ información que despues puede ser vendida facilmente a cualquier persona o en a
 ## ¿Que tan importante es proteger mi información?
 
 Si eres una persona que ultiliza mucho su correo, facebok, instagram o cualquier otra cuenta para manejar información personal, probablemente te interese mantenerte fuera del alcanze de los intrusos, piensa detenidamente que información tienes actualmentemente en tu correo electronico, probablemente datos bancarios , información personal valiosa , de tu empresao empleo , **¿Importante verdad?**.
-![ciber delincuente]({{ site.baseurl }}/images/ciberdel.jpg)
 Si quieres aprender como protegerte te inivito a ver el siguiente tutorial.
 
 ## Lo tienes...!
