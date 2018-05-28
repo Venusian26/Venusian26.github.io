@@ -17,11 +17,13 @@ información que despues puede ser vendida facilmente a cualquier persona o en a
 
 ## ¿Que tan importante es proteger mis cuentas?
 
-Si eres una persona que ultiliza mucho su correo, facebok, instagram o cualquier otra cuenta para manejar información personal, probablemente te interese mantenerte fuera del alcanze de los intrusos, piensa detenidamente que información tienes actualmentemente en tu correo electronico, probablemente datos bancarios , información personal valiosa o de tu empresa **¿Importante verdad?**.
+Si eres una persona que ultiliza mucho su correo, facebok, instagram o cualquier otra cuenta para manejar información personal, probablemente te interese mantenerte fuera del alcanze de los intrusos, piensa detenidamente que información tienes actualmentemente en tu correo electronico, probablemente datos bancarios , información personal valiosa , de tu empresao empleo , **¿Importante verdad?**.
 
 Si quieres aprender como protegerte te inivito a ver el siguiente tutorial.
 
 ## Lo tienes...!
+
+A continuacion te muestro como protegerte, en el siguiente video.
 {% include youtubePlayer.html id=page.youtubeId %}
 
 ### NOTA: ESTE POST ESTA EN DESARROLLO
