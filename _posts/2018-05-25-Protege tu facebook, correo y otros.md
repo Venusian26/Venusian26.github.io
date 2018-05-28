@@ -26,4 +26,6 @@ Si quieres aprender como protegerte te inivito a ver el siguiente tutorial.
 A continuacion te muestro como protegerte, en el siguiente video.
 {% include youtubePlayer.html id=page.youtubeId %}
 
+#### El video aùn no es visible.
+
 ### NOTA: ESTE POST ESTA EN DESARROLLO
