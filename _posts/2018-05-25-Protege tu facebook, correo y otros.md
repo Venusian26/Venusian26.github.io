@@ -15,7 +15,7 @@ Algunas personas que realizan este tipo de actos pueden hacerlo por simple curio
 A diferencia de personas que lo hacen de forma mas alla que la simple curiosidad, estas personas malintencionadas o comunmente llamados **ciberdelincuentes**, simplemente buscan obtener un beneficio a partir de tu información, 
 información que despues puede ser vendida facilmente a cualquier persona o en algun sitio ilegal.
 
-## ¿Que tan importante es proteger mis cuentas?
+## ¿Que tan importante es proteger mi información?
 
 Si eres una persona que ultiliza mucho su correo, facebok, instagram o cualquier otra cuenta para manejar información personal, probablemente te interese mantenerte fuera del alcanze de los intrusos, piensa detenidamente que información tienes actualmentemente en tu correo electronico, probablemente datos bancarios , información personal valiosa , de tu empresao empleo , **¿Importante verdad?**.
 
@@ -28,4 +28,4 @@ A continuacion te muestro como protegerte, en el siguiente video.
 
 #### El video aùn no es visible.
 
-### NOTA: ESTE POST ESTA EN DESARROLLO
+### *NOTA: ESTE POST ESTA EN DESARROLLO*
