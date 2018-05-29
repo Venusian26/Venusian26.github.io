@@ -14,7 +14,7 @@ Algunas personas que realizan este tipo de actos pueden hacerlo por simple curio
 
 A diferencia de personas que lo hacen de forma mas alla que la simple curiosidad, estas personas malintencionadas o comunmente llamados **ciberdelincuentes**, simplemente buscan obtener un beneficio a partir de tu información, 
 información que despues puede ser vendida facilmente a cualquier persona o en algun sitio ilegal.
-
+![facebooksecure]({{ site.baseurl }}/images/securefa.png)
 ## ¿Que tan importante es proteger mi información?
 
 Si eres una persona que ultiliza mucho su correo, facebok, instagram o cualquier otra cuenta para manejar información personal, probablemente te interese mantenerte fuera del alcanze de los intrusos. 
